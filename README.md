@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Header GIFs / Banners -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+---
+
+### 👨‍💻 About Me
+ChandanKumar13@github:~$ ./welcome.sh
+
+🎓 Pursuing B.Tech Computer Science Engineering
+👨‍💻 Passionate about Data Structures, Algorithms & C++
+🔎 Main interests: Competitive Programming & Full-Stack Development
+🌟 Proficient in: C++, JavaScript, TypeScript
+💼 Open to collaboration on innovative projects
