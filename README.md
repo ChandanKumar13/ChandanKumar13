@@ -15,14 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Header GIFs / Banners -->
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Full+Stack+Developer;Competitive+Programmer;C%2B%2B+%26+MERN+Stack" alt="Typing SVG" />
 </div>
 
+
 ---
+
+
 
 ### 👨‍💻 About Me
 ChandanKumar13@github:~$ ./welcome.sh
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChandanKumar13&show_icons=true&theme=tokyonight" />
@@ -31,11 +38,13 @@ ChandanKumar13@github:~$ ./welcome.sh
 </div>
 
 
-🎓 Pursuing B.Tech Computer Science Engineering
+🎓 Computer Science Engineering Student
 👨‍💻 Passionate about Data Structures, Algorithms & C++
-🔎 Main interests: Competitive Programming & Full-Stack Development
-🌟 Proficient in: C++, JavaScript, TypeScript
-💼 Open to collaboration on innovative projects
+🔎 Core Focus: AI Engineering, Autonomous Agents & LLM Systems
+🌟 Proficient in: C++, Python, TypeScript, LangChain, LlamaIndex, OpenAI API
+💼 Building multi-agent systems, RAG pipelines, and intelligent software
+
+
 
 ### 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
