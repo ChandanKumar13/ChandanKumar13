@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Header GIFs / Banners -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Full+Stack+Developer;Competitive+Programmer;C%2B%2B+%26+MERN+Stack" alt="Typing SVG" />
 </div>
 
 ---
