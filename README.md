@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ### 👨‍💻 About Me
-ChandanKumar13@github:~$ ./welcome.sh
+ChandanKumar
 
 
 
